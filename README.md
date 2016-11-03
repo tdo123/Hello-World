@@ -1,2 +1,2 @@
 # Hello-World
-This is my forst commit.
+This is my first commit.
